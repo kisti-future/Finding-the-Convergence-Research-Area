@@ -8,7 +8,7 @@
   - WoS_CategoryMatrix.xslx: WoS Category 간 유사도 행렬
   - ST_similarity_average:
   
-- 2.Convergence Index:
+- 2.Convergence Index
   - Government Research Institutes-Convergence Index.xlsx
   
 - 3.Convergence Map
